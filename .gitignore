@@ -4,6 +4,23 @@ Default/*
 .cproject
 .project
 
-# others
-*.o
-
+# keil
+.0.0.dbgconf
+.axf
+.build_log.htm
+.crf
+.d
+.dep
+.htm
+.icf
+.lnp
+.lst
+.map
+.o
+.sct
+.uvguix.*
+MDK-ARM/DebugConfig/
+MDK-ARM/F746GDISCOVERY.uvguix.*
+MDK-ARM/F746GDISCOVERY/
+MDK-ARM/RTE/
+MDK-ARM/startup_stm32f746xx.lst
