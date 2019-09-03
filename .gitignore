@@ -1,0 +1,9 @@
+# eclipse
+Default/*
+.settings/
+.cproject
+.project
+
+# others
+*.o
+
